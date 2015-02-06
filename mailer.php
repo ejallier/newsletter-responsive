@@ -9,12 +9,13 @@ function get_include_contents($filename) {
     return false;
 }
 
-$to      = 'ertest01@yahoo.fr; ejallier@cefim.eu';
+$to      = 'ertest01@yahoo.fr, ejallier@cefim.eu, erwann.jallier@gmail.com, erwann.jallier@live.fr';
 $subject = 'Un nouveau pack pour vous !';
 $message = get_include_contents('index.html');
-$headers = "From: \"SSW\"<contact@ssw.com>\n";
-$headers .= "Reply-To: contact@ssw.com\n";
-$headers .= "Content-Type: text/html; charset=\"iso-8859-1\"";
+$headers = "From: \"SSW\"<ssw@erwannjallier.com>\n";
+$headers .= "Reply-To: ssw@erwannjallier.com\n";
+$headers .= "Content-Type: text/html; charset=\"utf-8\"";
+
 
 mail($to, $subject, $message, $headers);
 
