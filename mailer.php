@@ -9,7 +9,7 @@ function get_include_contents($filename) {
     return false;
 }
 
-$to      = 'ertest01@yahoo.fr, ejallier@cefim.eu, erwann.jallier@gmail.com, erwann.jallier@live.fr';
+$to      = 'ertest01@yahoo.fr, ejallier@cefim.eu, erwann.jallier@gmail.com, erwann.jallier@live.fr'; //Vos adresses de test
 $subject = 'Un nouveau pack pour vous !';
 $message = get_include_contents('index.html');
 $headers = "From: \"SSW\"<ssw@erwannjallier.com>\n"; //Taper ici votre adresse mail
