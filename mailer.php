@@ -12,8 +12,8 @@ function get_include_contents($filename) {
 $to      = 'ertest01@yahoo.fr, ejallier@cefim.eu, erwann.jallier@gmail.com, erwann.jallier@live.fr';
 $subject = 'Un nouveau pack pour vous !';
 $message = get_include_contents('index.html');
-$headers = "From: \"SSW\"<ssw@erwannjallier.com>\n";
-$headers .= "Reply-To: ssw@erwannjallier.com\n";
+$headers = "From: \"SSW\"<ssw@erwannjallier.com>\n"; //Taper ici votre adresse mail
+$headers .= "Reply-To: ssw@erwannjallier.com\n";     //Pareil !!
 $headers .= "Content-Type: text/html; charset=\"utf-8\"";
 
 
