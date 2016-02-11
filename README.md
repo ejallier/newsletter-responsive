@@ -20,7 +20,11 @@ Et encore moins le CSS...
 Il faut donc utiliser le plus petit dénominateur commun du web. C'est à dire les tableaux.
 
 La mise en forme en tableau, aujourd'hui, et heureusement, est une mauvaise pratique. Une très, très, très mauvaise pratique.  
-Mais c'est le seul moyen pour positionner des éléments dans une page web.
+Mais c'est le seul moyen pour positionner des éléments dans une newsletter.
+Donc il faut faire comme à la fin des années 90.
+
+![Allons- y, Marty !!](img/bttf.jpg)  
+*Allons-y, Marty !!*
 
 Et le CSS, me direz-vous?  
 On peut l'utiliser. Un peu.  
