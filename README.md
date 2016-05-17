@@ -34,9 +34,9 @@ Et en inline.
 
 Ces quelques pages résument bien l'état des newsletters en 2016.
 
-- [18 astuces](//www.incremys.com/creer-newsletter-efficace-18-astuces-incontournables/)
-- [Chez alsacréations : Un e-mail en HTML responsive multi-clients](//www.alsacreations.com/tuto/lire/1533-un-e-mail-en-html-responsive-multi-clients.html)
-- [The Ultimate Guide to CSS](//www.campaignmonitor.com/css/b/)
+- [18 astuces](http://www.incremys.com/creer-newsletter-efficace-18-astuces-incontournables/)
+- [Chez alsacréations : Un e-mail en HTML responsive multi-clients](http://www.alsacreations.com/tuto/lire/1533-un-e-mail-en-html-responsive-multi-clients.html)
+- [The Ultimate Guide to CSS](https://www.campaignmonitor.com/css/b/)
 
 
 
